@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>BIME тестовый сайт</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<header>
+    <div id="logo" onclick="slowScroll('#top')">
+      <span>BIME</span>
+    </div>
+    <div class="img">
+      <img href="/img/1.jpeg" alt="">
+      <span>Уроки PhotoShop для начинающих</span>
+    </div>
+  </header>
+</body>
+</html>
